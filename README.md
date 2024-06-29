@@ -104,8 +104,8 @@ Add Tomcat Users in Tomcat/conf/tomcat/tomcat-users.xml file like below /
 
 <role rolename="manager-gui" />
 <user username="tomcat" password="tomcat" roles="manager-gui" />
-<role rolename="divya-gui" />
-<user username="divya" password="divya" roles="manager-gui,divya-gui" />
+<role rolename="shiv-gui" />
+<user username="shiv" password="shiv" roles="manager-gui,shiv-gui" />
 
 We can change tomcat servers default port in tomcat/conf/server.xml file
 
@@ -119,9 +119,9 @@ Edit index.html file like below (File Location : project-folder\src\main\webapp)
 
 <html>
 <body>
-<h1><font color='red'> Welcome to divyalearn.online...!! <font></h1>
+<h1><font color='red'> Welcome to Shivshankar Pandey hub...!! <font></h1>
 <h2> Learn here .... Lead Anywhere ...!! </h2>
-<a href="https://learnwithdivya.hashnode.dev"> click Here To see My Blogs</a>
+<a href="https://www.linkedin.com/in/shivshankarpandey/"> click Here To see My Profile</a>
 </body>
 </html>
 
@@ -153,7 +153,7 @@ Looking to stay updated on industry insights, career opportunities, and more? Jo
 
 👔 Connect professionally with us on LinkedIn for the latest in DevOps trends and news. 📈 Let's build connections that matter!
 
-💬 Follow us on LinkedIn --> https://www.linkedin.com/in/divya-satpute-68666a300/ to engage with our community and join the conversation on relevant topics. 🌍
+💬 Follow us on LinkedIn --> www.linkedin.com/in/shivshankarpandey to engage with our community and join the conversation on relevant topics. 🌍
 
 Stay connected, stay informed, and let's grow together! 💡
 
