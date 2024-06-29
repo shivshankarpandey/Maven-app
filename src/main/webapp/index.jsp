@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Divya Satpute's Blog</title>
+    <title>Shiv  Blog</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -65,15 +65,15 @@
 </head>
 <body>
     <header>
-        <h1>Divya Satpute's Blog</h1>
+        <h1>Shiv Pandey's Blog</h1>
         <p class="tagline">Inspiration and Insights for DevOps Engineers</p>
     </header>
     <div class="content">
         <p>Explore the latest trends, tips, and tools in the world of DevOps engineering.</p>
-        <a href="https://learnwithdivya.hashnode.dev/">Visit My Blog</a>
+        <a href="www.linkedin.com/in/shivshankarpandey">Visit My profile</a>
     </div>
     <footer>
-        <p>&copy; 2024 Divya Satpute. All rights reserved.</p>
+        <p>&copy; 2024 Shiv Pandey. All rights reserved.</p>
     </footer>
 </body>
 </html>
